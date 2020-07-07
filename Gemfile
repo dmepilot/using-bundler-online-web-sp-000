@@ -6,10 +6,10 @@
     gem "hashie"
     gem "octokit", '~>2.0'
     
-    group :test do 
-    gem "rspec" 
-    end
+ 
      
     group :development do
     gem "pry"
     end
+    
+    
